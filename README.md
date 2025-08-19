@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive **End-to-End SQL Project** on sales store data. The project focuses on exploring, cleaning, and analyzing sales transactions to gain meaningful business insights.
 
-[](https://github.com/Shagun6395/SALES-STORE-SQL-PROJECT/blob/main/Image.png)
+![Image](https://github.com/Shagun6395/SALES-STORE-SQL-PROJECT/blob/main/Image.png)
 
 It demonstrates how SQL can be applied in real-world scenarios such as identifying sales trends, customer behavior, and profitability patterns.
 
