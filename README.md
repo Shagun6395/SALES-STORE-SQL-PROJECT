@@ -2,6 +2,8 @@
 
 This repository contains a comprehensive **End-to-End SQL Project** on sales store data. The project focuses on exploring, cleaning, and analyzing sales transactions to gain meaningful business insights.
 
+[](https://github.com/Shagun6395/SALES-STORE-SQL-PROJECT/blob/main/Image.png)
+
 It demonstrates how SQL can be applied in real-world scenarios such as identifying sales trends, customer behavior, and profitability patterns.
 
 ---
@@ -72,5 +74,3 @@ This project answers the following 10 questions using SQL queries:
 This SQL project demonstrates the ability to use **structured queries for data-driven decision-making**. By answering real-world business questions, it highlights the importance of SQL in sales analytics.
 
 ---
-
-👉 Would you like me to also **write the exact SQL queries for all 10 questions** and include them in the README (or a separate `queries.sql` file) so your repository is ready to run?
