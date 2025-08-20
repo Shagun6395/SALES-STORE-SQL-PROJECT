@@ -44,7 +44,7 @@ The dataset includes the following columns:
 
 ---
 
-##  Questions Solved:
+## 🔍  Questions Solved:
 
 This project answers the following 10 questions using SQL queries:
 
