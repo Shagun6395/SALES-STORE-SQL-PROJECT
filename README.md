@@ -4,6 +4,8 @@ This repository contains a comprehensive **End-to-End SQL Project** on sales sto
 
 ![Image](https://github.com/Shagun6395/SALES-STORE-SQL-PROJECT/blob/main/Image.png)
 
+[Dataset](https://github.com/Shagun6395/SALES-STORE-SQL-PROJECT/blob/main/sales_store.csv)
+
 It demonstrates how SQL can be applied in real-world scenarios such as identifying sales trends, customer behavior, and profitability patterns.
 
 ---
