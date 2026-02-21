@@ -1,5 +1,6 @@
 # 🛒 Sales Store SQL Project
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-742774)
 
 
 This repository contains a comprehensive **End-to-End SQL Project** on sales store data. The project focuses on exploring, cleaning, and analyzing sales transactions to gain meaningful business insights.
